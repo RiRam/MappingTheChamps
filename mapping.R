@@ -1,7 +1,5 @@
 library(ggplot2)
 library(ggmap)
-library(maps)
-library(mapdata)
 library(readr)
 library(dplyr)
 
